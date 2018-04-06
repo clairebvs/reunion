@@ -1,0 +1,18 @@
+## Synthesis
+
+Included with your pull request, you must submit answers to the following questions:
+
+* What do you think we were trying to get you to learn with this challenge?
+* Outline in words (at least 5-6 sentences) what your code is doing in order to solve this problem.
+* What was the most difficult portion of this for you?
+* What came naturally to you?
+
+1) I think you were trying to make us work on classes interaction (see iteration 3).
+Also this test/code makes us working on testing and hashes.
+
+2) To solve this problem we have to create an activity that has attributes : name, participants and cost.
+Then we have to figure out how much each participants are spending for an activity. Adding the different activities they participate to know how much they spent in total.
+
+3) It started to be difficult for total cost (so end of iteration 1) and also iteration 2.
+
+4) Naturally what comes to me is to look for the different attributes of the class do the test and define them. 
